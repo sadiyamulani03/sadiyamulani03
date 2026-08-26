@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D50FF,100:FF61D2&height=220&section=header&text=Hi%20There%2C%20I%27m%20Sadiya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%26%20Web3%20Developer%20%7C%20Stellar%20Builder&descAlignY=58&descSize=18&descColor=e8e2ff" />
+<img width="100%" src="assets/banner.svg" alt="Sadiya Mulani banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D50FF&center=true&vCenter=true&width=640&lines=B.Sc.+Blockchain+Technology+Student;Building+on+the+Stellar+Ecosystem+%E2%9C%A8;From+First+Wallet+to+Mainnet+%F0%9F%9A%80;Open+to+Web3+Internship+Opportunities" alt="Typing SVG" />
 
@@ -146,6 +146,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadiyamulani03&color=9D50FF&style=flat-square&label=Profile+Views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D2,50:9D50FF,100:6C63FF&height=100&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="footer banner" />
 
 </div>
