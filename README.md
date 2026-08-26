@@ -226,8 +226,6 @@
 </table>
 
 ## 🎓 Certifications
-
-- 🌟 **Stellar Journey to Mastery** — Rise In & Stellar *(7 belts completed, certificate pending)*
 - 🌙 **Midnight Bootcamp** — SPPU *(completed, certificate received)*
 - 🧭 **Road to DevCon** — in progress
 
