@@ -20,7 +20,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🔗 **Blockchain & Web3 enthusiast**, currently in my B.Sc. Blockchain Technology program (SPPU, Pune) — **9.73 GPA**
+- 🔗 **Blockchain & Web3 enthusiast**, currently in **SY B.Sc. Blockchain Technology (Sem-III)** at SPPU, Pune — **FY CGPA: 9.86**
 - ⭐ Building on **Stellar** — 7 belts down, from first wallet connection to Mainnet deployment
 - 🎨 Frontend dev with an eye for **cyberpunk/neon UI** (check out my portfolio!)
 - 📖 Documenting my full academic + hands-on blockchain journey in public
@@ -34,12 +34,12 @@
 <td width="40%" valign="top" align="center">
 
 ```
-   ┌──────────────┐
-   │  01 wallet   │
-   │  02 belts    │
-   │  03 mainnet  │
-   │  04 beyond   │
-   └──────────────┘
+   ┌──────────────────────┐
+   │  FY  ✓  CGPA: 9.86   │
+   │  SY  ▸  Sem-III      │
+   │  7 belts  ▸  Mainnet │
+   │  DevCon  ▸  in prog  │
+   └──────────────────────┘
    status: building
 ```
 
