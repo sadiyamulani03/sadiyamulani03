@@ -33,16 +33,6 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-```
-   ┌──────────────────────┐
-   │  FY  ✓  CGPA: 9.86   │
-   │  SY  ▸  Sem-III      │
-   │  7 belts  ▸  Mainnet │
-   │  DevCon  ▸  in prog  │
-   └──────────────────────┘
-   status: building
-```
-
 </td>
 </tr>
 </table>
@@ -244,9 +234,10 @@
 ## 📊 By the Numbers
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sadiyamulani03&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D50FF&icon_color=FF61D2&text_color=e8e2ff&count_private=true" />
 <img height="160" src="https://streak-stats.demolab.com/?user=sadiyamulani03&theme=radical&hide_border=true&background=0d1117&stroke=9D50FF&ring=FF61D2&fire=FF61D2&currStreakLabel=e8e2ff" />
 </div>
+
+<p align="center"><em>GitHub stats temporarily unavailable (external service down)</em></p>
 
 ## 🐍 Contribution Snake
 
