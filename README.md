@@ -241,12 +241,6 @@
 - 🌙 **Midnight Bootcamp** — SPPU (Zero-knowledge blockchain)
 - 🧭 **Road to DevCon** — in progress
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sadiyamulani03&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</div>
-
 ## 📊 By the Numbers
 
 <div align="center">
