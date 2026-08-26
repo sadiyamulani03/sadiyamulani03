@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg" alt="Sadiya Mulani banner" />
+<img width="100%" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/assets/banner.svg" alt="Sadiya Mulani banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D50FF&center=true&vCenter=true&width=640&lines=B.Sc.+Blockchain+Technology+Student;Building+on+the+Stellar+Ecosystem+%E2%9C%A8;From+First+Wallet+to+Mainnet+%F0%9F%9A%80;Open+to+Web3+Internship+Opportunities" alt="Typing SVG" />
 
@@ -125,16 +125,16 @@
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=sadiyamulani03&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D50FF&icon_color=FF61D2&text_color=e8e2ff&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiyamulani03&theme=radical&hide_border=true&background=0d1117&stroke=9D50FF&ring=FF61D2&fire=FF61D2&currStreakLabel=e8e2ff" />
+<img height="160" src="https://streak-stats.demolab.com/?user=sadiyamulani03&theme=radical&hide_border=true&background=0d1117&stroke=9D50FF&ring=FF61D2&fire=FF61D2&currStreakLabel=e8e2ff" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
@@ -146,6 +146,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadiyamulani03&color=9D50FF&style=flat-square&label=Profile+Views)
 
-<img width="100%" src="assets/footer.svg" alt="footer banner" />
+<img width="100%" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/assets/footer.svg" alt="footer banner" />
 
 </div>
