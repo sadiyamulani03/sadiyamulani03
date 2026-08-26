@@ -1,0 +1,28 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="50%" stop-color="#9D50FF"/>
+      <stop offset="100%" stop-color="#FF61D2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <path d="M0,180 C200,140 400,220 600,180 C800,140 1000,220 1200,180 L1200,220 L0,220 Z"
+        fill="rgba(255,255,255,0.08)"/>
+  <path d="M0,195 C220,165 420,225 620,195 C820,165 1000,225 1200,195 L1200,220 L0,220 Z"
+        fill="rgba(255,255,255,0.12)"/>
+
+  <text x="600" y="95" font-family="Verdana, Segoe UI, sans-serif" font-size="42" font-weight="700"
+        fill="#ffffff" text-anchor="middle">
+    Hi There, I'm Sadiya 👋
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="135" font-family="Verdana, Segoe UI, sans-serif" font-size="18"
+        fill="#f0eaff" text-anchor="middle">
+    Blockchain &amp; Web3 Developer | Stellar Builder
+    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
