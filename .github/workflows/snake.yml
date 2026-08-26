@@ -20,11 +20,11 @@ jobs:
         with:
           github_user_name: sadiyamulani03
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
           message: 'Update contribution snake'
-          add: 'dist/github-contribution-grid-snake*.svg'
+          add: 'output/github-contribution-grid-snake*.svg'

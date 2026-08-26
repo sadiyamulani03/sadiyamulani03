@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiya-mulani-9a67a3381)
 [![GitHub](https://img.shields.io/badge/-GitHub-9D50FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadiyamulani03)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF61D2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sadiyamulani03/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF61D2?style=for-the-badge&logo=vercel&logoColor=white)](https://sadiyamulani03.github.io/Portfolio/)
 
 </div>
 
@@ -20,11 +20,13 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🔗 **Blockchain & Web3 enthusiast**, currently in my B.Sc. Blockchain Technology program
-- ⭐ Building on **Stellar** — 7 belts down, from first wallet connection to Mainnet
+- 🔗 **Blockchain & Web3 enthusiast**, currently in my B.Sc. Blockchain Technology program (SPPU, Pune) — **9.73 GPA**
+- ⭐ Building on **Stellar** — 7 belts down, from first wallet connection to Mainnet deployment
 - 🎨 Frontend dev with an eye for **cyberpunk/neon UI** (check out my portfolio!)
 - 📖 Documenting my full academic + hands-on blockchain journey in public
 - 🌱 Learning **Soroban smart contracts**, exploring **Midnight** (privacy-preserving blockchain), and expanding into DeFi
+- 🔐 Applied cryptography: AES/RSA/SHA-256, hybrid encryption, digital signatures, blockchain integrity chains
+- 🐍 Python for data science, desktop apps, networking & socket programming
 - 🧭 On the **Road to DevCon** — actively working toward it
 - 🤝 **Open to Web3 & Blockchain internships** — let's talk
 
@@ -49,58 +51,182 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,figma,vscode,python,rust,mysql,sqlite,tailwind,react,nextjs&theme=dark" />
 
 <br/><br/>
 
 ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=7D00FF)
 ![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contracts-6C63FF?style=flat-square)
 ![Midnight](https://img.shields.io/badge/Midnight-Privacy%20Blockchain-1a1a2e?style=flat-square&logoColor=9D50FF)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-DApps-9D50FF?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES%2FRSA%2FSHA--256-FF61D2?style=flat-square)
 
 </div>
 
 ## 🚀 Featured Projects
 
+### ⭐ Stellar Ecosystem & Soroban
+
 <table>
 <tr>
 <td width="50%">
 
-**🌟 [Stellar-Journey-to-Mastery](https://github.com/sadiyamulani03/Stellar-Journey-to-Mastery)**
-<br/>A hands-on Stellar journey through 7 belts — from first wallet connection to launching on Mainnet.
-<br/>`TypeScript`
+**🌟 [Stellar-Journey-to-Mastery](https://github.com/sadiyamulani03/Stellar-Journey-to-Mastery)**  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000?style=flat-square&logo=vercel)](https://stellar-journey-to-mastery.vercel.app/)
+<br/>A hands-on Stellar journey through **7 belts** — from first wallet connection to launching on Mainnet. Production-grade payroll escrow & loyalty rewards protocol with Soroban Rust contracts, Next.js 15, Zustand, React Query.
+<br/>`TypeScript` `Rust` `Soroban` `Next.js 15` `Tailwind` `Stellar SDK`
 
 </td>
 <td width="50%">
 
-**💼 [Portfolio](https://github.com/sadiyamulani03/Portfolio)**
-<br/>Personal site with a cyberpunk/neon dark theme and smooth animations.
-<br/>`JavaScript` `HTML` `CSS`
+**🌙 [IntoTheMidnight-SPPU](https://github.com/sadiyamulani03/IntoTheMidnight-SPPU)**  
+<br/>Built during the **Midnight Bootcamp at SPPU** — exploring the Midnight privacy-preserving blockchain (zero-knowledge proofs, private smart contracts).
+<br/>`TypeScript` `Midnight` `ZK` `Privacy`
+
+</td>
+</tr>
+</table>
+
+### 🔐 Cryptography & Security Systems
+
+<table>
+<tr>
+<td width="50%">
+
+**🔐 [ChainSecureX](https://github.com/sadiyamulani03/ChainSecureX)**  
+<br/>**8-phase encrypted communication system** built from scratch in Python: TCP networking → CustomTkinter GUI → AES/RSA hybrid encryption → SHA-256 integrity → RSA digital signatures → SQLite persistence → Blockchain hash chain. **44 commits**, full crypto stack implementation.
+<br/>`Python` `AES-256` `RSA` `SHA-256` `Diffie-Hellman` `SQLite` `CustomTkinter` `sockets` `threading`
+
+</td>
+<td width="50%">
+
+**🌐 [The-On-Chain-Event-Monitor-](https://github.com/sadiyamulani03/The-On-Chain-Event-Monitor-)**  
+<br/>Real-time blockchain event monitoring and indexing tool for on-chain activity tracking.
+<br/>`JavaScript` `Blockchain` `Events` `Monitoring`
+
+</td>
+</tr>
+</table>
+
+### 🌐 Web3 & Smart Contracts (Solidity/EVM)
+
+<table>
+<tr>
+<td width="50%">
+
+**🪙 [erc20-polygon-amoy](https://github.com/sadiyamulani03/erc20-polygon-amoy)**  
+<br/>ERC-20 token deployment on **Polygon Amoy testnet** using Solidity, OpenZeppelin, Remix, and MetaMask.
+<br/>`Solidity` `OpenZeppelin` `Polygon` `Remix` `MetaMask`
+
+</td>
+<td width="50%">
+
+**💰 [Crowdfunding-Smart-Contract](https://github.com/sadiyamulani03/Crowdfunding-Smart-Contract)**  
+<br/>First Web3 project — a **crowdfunding smart contract** deployed using Remix on Ethereum-compatible networks.
+<br/>`Solidity` `Remix` `Web3` `Smart Contracts`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📚 [BSc-Blockchain-Technology-Academics](https://github.com/sadiyamulani03/BSc-Blockchain-Technology-Academics)**
-<br/>Coursework, implementations, and projects from my degree program.
-<br/>`HTML`
+**🔗 [The-Multi-Chain](https://github.com/sadiyamulani03/The-Multi-Chain)**  
+<br/>Multi-chain blockchain exploration and interaction tools.
+<br/>`HTML` `JavaScript` `Multi-chain` `Web3`
 
 </td>
 <td width="50%">
 
-**🌙 [IntoTheMidnight-SPPU](https://github.com/sadiyamulani03/IntoTheMidnight-SPPU)**
-<br/>Built during the Midnight Bootcamp at SPPU, exploring the Midnight privacy-preserving blockchain.
-<br/>`TypeScript`
+**📬 [TheWalletFeed](https://github.com/sadiyamulani03/TheWalletFeed)**  
+<br/>Wallet activity feed and transaction monitoring dashboard.
+<br/>`TypeScript` `Web3` `Wallet` `Indexing`
+
+</td>
+</tr>
+</table>
+
+### 🐍 Python & Data Science
+
+<table>
+<tr>
+<td width="50%">
+
+**📊 [Learning-Productivity-Tool](https://github.com/sadiyamulani03/Learning-Productivity-Tool)**  
+<br/>**Desktop app (Tkinter + MySQL + Matplotlib)** — track study sessions, fatigue detection, productivity analytics, goal management, CSV reports, notifications. **23 modular Python files**, full CRUD + analytics.
+<br/>`Python` `Tkinter` `MySQL` `Matplotlib` `bcrypt` `Data Visualization`
+
+</td>
+<td width="50%">
+
+**🧠 [Psychology-Data-Analysis-Project](https://github.com/sadiyamulani03/Psychology-Data-Analysis-Project)**  
+<br/>Student performance data analysis with Python — multiple chart visualizations and statistical insights.
+<br/>`Python` `Pandas` `Matplotlib` `Data Analysis` `Statistics`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🌗 [NewMoonToFullMoon](https://github.com/sadiyamulani03/NewMoonToFullMoon)**
-<br/>SPPU coursework project exploring TypeScript.
-<br/>`TypeScript`
+**📡 [LayerLink-TCP-vs-UDP-Simulation](https://github.com/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation)**  
+<br/>OSI Layer simulation with **TCP vs UDP communication** using Python socket programming — networking fundamentals visualization.
+<br/>`Python` `Sockets` `TCP` `UDP` `Networking` `OSI Model`
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend & Portfolio
+
+<table>
+<tr>
+<td width="50%">
+
+**💼 [Portfolio](https://github.com/sadiyamulani03/Portfolio)**  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-000?style=flat-square&logo=github)](https://sadiyamulani03.github.io/Portfolio/)
+<br/>**Cyberpunk/neon dark theme** portfolio — boot sequence intro, particle system, 3D engine elements, flip cards, fully responsive multi-page layout. **Vanilla JS, no frameworks**. 63 commits.
+<br/>`HTML` `CSS` `JavaScript` `Vite` `GitHub Pages` `Animations`
+
+</td>
+<td width="50%">
+
+**🚗 [CarMeet-website](https://github.com/sadiyamulani03/CarMeet-website)**  
+<br/>Event showcase website for car meetups — galleries, videos, community features, visually engaging design.
+<br/>`HTML` `CSS` `JavaScript` `Events` `Gallery`
+
+</td>
+</tr>
+</table>
+
+### 📚 Academic Coursework
+
+<table>
+<tr>
+<td width="50%">
+
+**📚 [BSc-Blockchain-Technology-Academics](https://github.com/sadiyamulani03/BSc-Blockchain-Technology-Academics)**  
+<br/>Coursework, implementations, and projects from B.Sc. Blockchain Technology program — comprehensive academic documentation.
+<br/>`HTML` `JavaScript` `Blockchain` `Academic`
+
+</td>
+<td width="50%">
+
+**🌗 [NewMoonToFullMoon](https://github.com/sadiyamulani03/NewMoonToFullMoon)**  
+<br/>SPPU coursework project exploring TypeScript fundamentals.
+<br/>`TypeScript` `Academic` `SPPU`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏨 [Hotel-Five-Flavours-of-India](https://github.com/sadiyamulani03/Hotel-Five-Flavours-of-India)**  
+<br/>Early HTML/CSS project — hotel website with Indian cuisine theme.
+<br/>`HTML` `CSS` `Beginner Project`
 
 </td>
 <td width="50%">
@@ -111,8 +237,8 @@
 
 ## 🎓 Certifications
 
-- 🌟 **Stellar Journey to Mastery** — Rise In & Stellar
-- 🌙 **Midnight Bootcamp** — SPPU
+- 🌟 **Stellar Journey to Mastery** — Rise In & Stellar (7 belts completed)
+- 🌙 **Midnight Bootcamp** — SPPU (Zero-knowledge blockchain)
 - 🧭 **Road to DevCon** — in progress
 
 ## 🏆 Trophy Case
