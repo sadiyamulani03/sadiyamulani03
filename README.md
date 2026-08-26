@@ -31,9 +31,6 @@
 - 🤝 **Open to Web3 & Blockchain internships** — let's talk
 
 </td>
-<td width="40%" valign="top" align="center">
-
-</td>
 </tr>
 </table>
 
