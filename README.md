@@ -202,6 +202,7 @@
 
 ### Contribution Activity Graph
 <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/activity-graph.svg" alt="Activity Graph" />
+
 ### Auto-Generated Profile Stats (via GitHub Action)
 <p align="center">
   <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/profile-stats.svg" height="160" alt="Profile Stats" />
