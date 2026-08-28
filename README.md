@@ -201,7 +201,6 @@
 </picture>
 
 ### Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiyamulani03&theme=github-dark&hide_border=true&area=true&color=9D50FF&point=FF61D2&line=9D50FF" alt="Activity Graph" />
 <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/activity-graph.svg" alt="Activity Graph" />
 ### Auto-Generated Profile Stats (via GitHub Action)
 <p align="center">
