@@ -17,13 +17,13 @@
 
 ## 👩‍💻 About Me
 
-> **SY B.Sc. Blockchain Technology (Sem-III)** at SPPU, Pune  •  **FY CGPA: 9.86**  •  Pune, Maharashtra
+> **I am a SY B.Sc. Blockchain Technology Student (Sem-III)** at SPPU, Pune  •  **FY CGPA: 9.86**  •  Pune, Maharashtra
 
 ```txt
 ┌─────────────────────────────────────────────────────────────┐
 │  🎓  Academic:     SY B.Sc. Blockchain Tech  •  Sem-III     │
 │  📊  FY CGPA:      9.86                                     │
-│  ⭐  Stellar:       7 Belts  →  Mainnet Deployment           │
+│  ⭐  Stellar:       7 Belts  →  Mainnet Deployment          │
 │  🌙  Midnight:      Bootcamp Graduate  •  ZK/Privacy        │
 │  🧭  DevCon:        Road to DevCon  •  In Progress          │
 │  💼  Status:        Open to Web3/Blockchain Internships     │
@@ -141,11 +141,8 @@
 
 ## 🎓 Certifications
 
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| **Stellar Journey to Mastery** | Rise In & Stellar | 7 belts completed • certificate pending |
-| **Midnight Bootcamp** | SPPU | Completed • certificate received |
-| **Road to DevCon** | — | In progress |
+ **Into the Midnight Bootcamp-SPPU**
+ **Road to DevCon-I** 
 
 ---
 
