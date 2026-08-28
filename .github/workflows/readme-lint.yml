@@ -7,6 +7,7 @@ on:
     branches: [main]
   schedule:
     - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -23,7 +24,7 @@ jobs:
           node-version: '20'
 
       - name: Install markdownlint
-        run: npm install -g markdownlint-cli2@0.14.1
+        run: npm install -g markdownlint-cli2@latest
 
       - name: Run markdownlint
         run: markdownlint-cli2 README.md --config .markdownlint.jsonc
