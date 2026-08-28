@@ -118,7 +118,7 @@
 
 | Project | Description | Tech | Stats |
 |---------|-------------|------|-------|
-| **[Learning-Productivity-Tool](https://github.com/sadiyamulani03/Learning-Productivity-Tool)** | Desktop app: study tracking, fatigue detection, productivity analytics, goals, CSV reports, notifications. 23 modular files. | `Python` `Tkinter` `MySQL` `Matplotlib` `bcrypt` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Learning-Productivity-Tool?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Learning-Productivity-Tool?style=flat-square) |
+| **[Learning-Productivity-Tool](https://github.com/sadiyamulani03/Learning-Productivity-Tool)** | Desktop app: study tracking, fatigue detection, productivity analytics, goals, CSV reports, notifications. 23 modular files. | `Python` `Tkinter` `MySQL` `Matplotlib` `bcrypt` | ![Stars](https://img.shields.io/github/forks/sadiyamulani03/Learning-Productivity-Tool?style=flat-square) |
 | **[Psychology-Data-Analysis-Project](https://github.com/sadiyamulani03/Psychology-Data-Analysis-Project)** | Student performance analysis — statistical insights, multi-chart visualizations. | `Python` `Pandas` `Matplotlib` `Statistics` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Psychology-Data-Analysis-Project?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Psychology-Data-Analysis-Project?style=flat-square) |
 | **[LayerLink-TCP-vs-UDP-Simulation](https://github.com/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation)** | OSI Layer simulation with TCP vs UDP socket programming. | `Python` `Sockets` `TCP` `UDP` `Networking` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation?style=flat-square) |
 
@@ -151,7 +151,6 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=sadiyamulani03&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=15" alt="Trophies" />
   <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/trophies.svg" alt="Trophies" />
 
 ---
