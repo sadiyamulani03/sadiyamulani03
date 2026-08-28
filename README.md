@@ -93,49 +93,49 @@
 
 ### ⭐ Stellar Ecosystem & Soroban
 
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **[Stellar-Journey-to-Mastery](https://github.com/sadiyamulani03/Stellar-Journey-to-Mastery)** | 7-belt journey: wallet → payments → Soroban logging → payroll escrow → loyalty rewards → disputes → Mainnet. 48 commits, full CI/CD. | `TypeScript` `Rust` `Soroban` `Next.js 15` `Tailwind` `Zustand` `React Query` | [![Vercel](https://img.shields.io/badge/Live-Vercel-000?style=flat-square&logo=vercel)](https://stellar-journey-to-mastery.vercel.app/) |
-| **[IntoTheMidnight-SPPU](https://github.com/sadiyamulani03/IntoTheMidnight-SPPU)** | Midnight Bootcamp project — privacy-preserving blockchain, zero-knowledge proofs, private smart contracts. | `TypeScript` `Midnight` `ZK` `Privacy` | — |
+| Project | Description | Tech | Live | Stats |
+|---------|-------------|------|------|-------|
+| **[Stellar-Journey-to-Mastery](https://github.com/sadiyamulani03/Stellar-Journey-to-Mastery)** | 7-belt journey: wallet → payments → Soroban logging → payroll escrow → loyalty rewards → disputes → Mainnet. 48 commits, full CI/CD. | `TypeScript` `Rust` `Soroban` `Next.js 15` `Tailwind` `Zustand` `React Query` | [![Vercel](https://img.shields.io/badge/Live-Vercel-000?style=flat-square&logo=vercel)](https://stellar-journey-to-mastery.vercel.app/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Stellar-Journey-to-Mastery?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Stellar-Journey-to-Mastery?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/sadiyamulani03/Stellar-Journey-to-Mastery?style=flat-square) |
+| **[IntoTheMidnight-SPPU](https://github.com/sadiyamulani03/IntoTheMidnight-SPPU)** | Midnight Bootcamp project — privacy-preserving blockchain (ChainShield), zero-knowledge proofs, private smart contracts. Live on Vercel & GitHub Pages. | `TypeScript` `Midnight` `ZK` `Privacy` `Compact` | [![Vercel](https://img.shields.io/badge/Live-Vercel-000?style=flat-square&logo=vercel)](https://chainshield-supply-chain.vercel.app/) [![Pages](https://img.shields.io/badge/Live-GitHub_Pages-000?style=flat-square&logo=github)](https://sadiyamulani03.github.io/IntoTheMidnight-SPPU/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/IntoTheMidnight-SPPU?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/IntoTheMidnight-SPPU?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/sadiyamulani03/IntoTheMidnight-SPPU?style=flat-square) |
 
 ### 🔐 Cryptography & Security Systems
 
-| Project | Description | Tech | Highlights |
-|---------|-------------|------|------------|
-| **[ChainSecureX](https://github.com/sadiyamulani03/ChainSecureX)** | **8-phase encrypted chat system** from scratch: TCP → GUI → AES/RSA hybrid → SHA-256 integrity → RSA signatures → SQLite → Blockchain hash chain. 44 commits. | `Python` `AES-256` `RSA` `SHA-256` `Diffie-Hellman` `CustomTkinter` `SQLite` `sockets` | Full crypto stack, multi-client, tamper-evident logs |
-| **[The-On-Chain-Event-Monitor-](https://github.com/sadiyamulani03/The-On-Chain-Event-Monitor-)** | Real-time blockchain event monitoring & indexing for on-chain activity tracking. | `JavaScript` `Blockchain` `Events` | Event-driven architecture |
+| Project | Description | Tech | Highlights | Stats |
+|---------|-------------|------|------------|-------|
+| **[ChainSecureX](https://github.com/sadiyamulani03/ChainSecureX)** | **8-phase encrypted chat system** from scratch: TCP → GUI → AES/RSA hybrid → SHA-256 integrity → RSA signatures → SQLite → Blockchain hash chain. 44 commits. | `Python` `AES-256` `RSA` `SHA-256` `Diffie-Hellman` `CustomTkinter` `SQLite` `sockets` | Full crypto stack, multi-client, tamper-evident logs | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/ChainSecureX?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/ChainSecureX?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/sadiyamulani03/ChainSecureX?style=flat-square) |
+| **[The-On-Chain-Event-Monitor-](https://github.com/sadiyamulani03/The-On-Chain-Event-Monitor-)** | Real-time blockchain event monitoring via direct RPC (no indexer) — calldata decoder, SSE streaming, auto-failover. Road to DevCon I Problem 3. | `JavaScript` `Next.js 15` `Ethers.js` `Netlify` | Event-driven, no third-party indexer | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=flat-square&logo=netlify)](https://theonchaineventmonitor.netlify.app) ![Stars](https://img.shields.io/github/stars/sadiyamulani03/The-On-Chain-Event-Monitor-?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/The-On-Chain-Event-Monitor-?style=flat-square) |
 
 ### 🌐 Web3 & Smart Contracts (Solidity/EVM)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[erc20-polygon-amoy](https://github.com/sadiyamulani03/erc20-polygon-amoy)** | ERC-20 token on Polygon Amoy testnet — OpenZeppelin, Remix, MetaMask. | `Solidity` `OpenZeppelin` `Polygon` `Remix` |
-| **[Crowdfunding-Smart-Contract](https://github.com/sadiyamulani03/Crowdfunding-Smart-Contract)** | First Web3 project — crowdfunding contract deployed via Remix. | `Solidity` `Remix` `Web3` |
-| **[The-Multi-Chain](https://github.com/sadiyamulani03/The-Multi-Chain)** | Multi-chain exploration & interaction tools. | `HTML` `JavaScript` `Web3` |
-| **[TheWalletFeed](https://github.com/sadiyamulani03/TheWalletFeed)** | Wallet activity feed & transaction monitoring dashboard. | `TypeScript` `Web3` `Indexing` |
+| Project | Description | Tech | Live/Explorer | Stats |
+|---------|-------------|------|---------------|-------|
+| **[erc20-polygon-amoy](https://github.com/sadiyamulani03/erc20-polygon-amoy)** | ERC-20 token (GLD) on Polygon Amoy testnet — OpenZeppelin, Remix, MetaMask. Lab project for Layer 2 deployment. | `Solidity` `OpenZeppelin` `Polygon` `Remix` | [![PolygonScan](https://img.shields.io/badge/View-PolygonScan-8247E5?style=flat-square&logo=polygon)](https://amoy.polygonscan.com/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/erc20-polygon-amoy?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/erc20-polygon-amoy?style=flat-square) |
+| **[Crowdfunding-Smart-Contract](https://github.com/sadiyamulani03/Crowdfunding-Smart-Contract)** | First Web3 project — crowdfunding contract with deposit/withdraw/refund logic, goal-based funding, deadline enforcement. | `Solidity` `Remix` `Web3` | [![Remix](https://img.shields.io/badge/Open-Remix-F97316?style=flat-square&logo=ethereum)](https://remix.ethereum.org/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Crowdfunding-Smart-Contract?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Crowdfunding-Smart-Contract?style=flat-square) |
+| **[The-Multi-Chain](https://github.com/sadiyamulani03/The-Multi-Chain)** | Multi-chain exploration & interaction tools. | `HTML` `JavaScript` `Web3` | — | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/The-Multi-Chain?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/The-Multi-Chain?style=flat-square) |
+| **[TheWalletFeed](https://github.com/sadiyamulani03/TheWalletFeed)** | Wallet activity feed — multi-category transfers (ETH, ERC-20, ERC-721, ERC-1155, internal) via Alchemy API. Full pagination, CLI + Web UI. Road to DevCon I. | `TypeScript` `Next.js 16` `Alchemy SDK` `Vercel` | [![Vercel](https://img.shields.io/badge/Live-Vercel-000?style=flat-square&logo=vercel)](https://the-wallet-feed.vercel.app) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/TheWalletFeed?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/TheWalletFeed?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/sadiyamulani03/TheWalletFeed?style=flat-square) |
 
 ### 🐍 Python, Data Science & Networking
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Learning-Productivity-Tool](https://github.com/sadiyamulani03/Learning-Productivity-Tool)** | Desktop app: study tracking, fatigue detection, productivity analytics, goals, CSV reports, notifications. 23 modular files. | `Python` `Tkinter` `MySQL` `Matplotlib` `bcrypt` |
-| **[Psychology-Data-Analysis-Project](https://github.com/sadiyamulani03/Psychology-Data-Analysis-Project)** | Student performance analysis — statistical insights, multi-chart visualizations. | `Python` `Pandas` `Matplotlib` `Statistics` |
-| **[LayerLink-TCP-vs-UDP-Simulation](https://github.com/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation)** | OSI Layer simulation with TCP vs UDP socket programming. | `Python` `Sockets` `TCP` `UDP` `Networking` |
+| Project | Description | Tech | Stats |
+|---------|-------------|------|-------|
+| **[Learning-Productivity-Tool](https://github.com/sadiyamulani03/Learning-Productivity-Tool)** | Desktop app: study tracking, fatigue detection, productivity analytics, goals, CSV reports, notifications. 23 modular files. | `Python` `Tkinter` `MySQL` `Matplotlib` `bcrypt` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Learning-Productivity-Tool?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Learning-Productivity-Tool?style=flat-square) |
+| **[Psychology-Data-Analysis-Project](https://github.com/sadiyamulani03/Psychology-Data-Analysis-Project)** | Student performance analysis — statistical insights, multi-chart visualizations. | `Python` `Pandas` `Matplotlib` `Statistics` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Psychology-Data-Analysis-Project?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Psychology-Data-Analysis-Project?style=flat-square) |
+| **[LayerLink-TCP-vs-UDP-Simulation](https://github.com/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation)** | OSI Layer simulation with TCP vs UDP socket programming. | `Python` `Sockets` `TCP` `UDP` `Networking` | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/LayerLink-TCP-vs-UDP-Simulation?style=flat-square) |
 
 ### 🎨 Frontend & Portfolio
 
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **[Portfolio](https://github.com/sadiyamulani03/Portfolio)** | Cyberpunk/neon theme — boot sequence, particle system, 3D engine, flip cards, multi-page, vanilla JS. 63 commits. | `HTML` `CSS` `JavaScript` `Vite` | [![Pages](https://img.shields.io/badge/Live-GitHub_Pages-000?style=flat-square&logo=github)](https://sadiyamulani03.github.io/Portfolio/) |
-| **[CarMeet-website](https://github.com/sadiyamulani03/CarMeet-website)** | Car meetup showcase — galleries, videos, community features. | `HTML` `CSS` `JavaScript` | — |
+| Project | Description | Tech | Live | Stats |
+|---------|-------------|------|------|-------|
+| **[Portfolio](https://github.com/sadiyamulani03/Portfolio)** | Cyberpunk/neon theme — boot sequence, particle system, 3D engine, flip cards, multi-page, vanilla JS. 63 commits. | `HTML` `CSS` `JavaScript` `Vite` | [![Pages](https://img.shields.io/badge/Live-GitHub_Pages-000?style=flat-square&logo=github)](https://sadiyamulani03.github.io/Portfolio/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Portfolio?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Portfolio?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/sadiyamulani03/Portfolio?style=flat-square) |
+| **[CarMeet-website](https://github.com/sadiyamulani03/CarMeet-website)** | Car meetup showcase — galleries, videos, community features, responsive HTML/CSS. SPPU Web Technology coursework. | `HTML` `CSS` `JavaScript` | [![Pages](https://img.shields.io/badge/Live-GitHub_Pages-000?style=flat-square&logo=github)](https://sadiyamulani03.github.io/CarMeet-website/) | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/CarMeet-website?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/CarMeet-website?style=flat-square) |
 
 ### 📚 Academic Coursework
 
-| Project | Description |
-|---------|-------------|
-| **[BSc-Blockchain-Technology-Academics](https://github.com/sadiyamulani03/BSc-Blockchain-Technology-Academics)** | Complete coursework, implementations, projects from degree program. |
-| **[NewMoonToFullMoon](https://github.com/sadiyamulani03/NewMoonToFullMoon)** | SPPU coursework — TypeScript fundamentals. |
-| **[Hotel-Five-Flavours-of-India](https://github.com/sadiyamulani03/Hotel-Five-Flavours-of-India)** | Early HTML/CSS project — hotel website. |
+| Project | Description | Stats |
+|---------|-------------|-------|
+| **[BSc-Blockchain-Technology-Academics](https://github.com/sadiyamulani03/BSc-Blockchain-Technology-Academics)** | Complete coursework, implementations, projects from degree program. | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/BSc-Blockchain-Technology-Academics?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/BSc-Blockchain-Technology-Academics?style=flat-square) |
+| **[NewMoonToFullMoon](https://github.com/sadiyamulani03/NewMoonToFullMoon)** | SPPU coursework — TypeScript fundamentals. | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/NewMoonToFullMoon?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/NewMoonToFullMoon?style=flat-square) |
+| **[Hotel-Five-Flavours-of-India](https://github.com/sadiyamulani03/Hotel-Five-Flavours-of-India)** | Early HTML/CSS project — hotel website. | ![Stars](https://img.shields.io/github/stars/sadiyamulani03/Hotel-Five-Flavours-of-India?style=flat-square) ![Forks](https://img.shields.io/github/forks/sadiyamulani03/Hotel-Five-Flavours-of-India?style=flat-square) |
 
 ---
 
@@ -146,6 +146,37 @@
 | **Stellar Journey to Mastery** | Rise In & Stellar | 7 belts completed • certificate pending |
 | **Midnight Bootcamp** | SPPU | Completed • certificate received |
 | **Road to DevCon** | — | In progress |
+
+---
+
+## 🏆 Selected Achievements
+
+| Event | Recognition | Year |
+|-------|-------------|------|
+| Stellar Journey to Mastery | 7 Belts Completed (White → Mainnet) | 2026 |
+| Midnight Bootcamp (SPPU) | Graduate — ChainShield Supply Chain on Midnight | 2026 |
+| Road to DevCon I | Problem 3: Chain Event Monitor (Selected) | 2026 |
+| Road to DevCon I | Problem: Wallet Activity Feed (TheWalletFeed) | 2026 |
+| B.Sc. Blockchain Technology | FY CGPA: 9.86 (SPPU) | 2025 |
+
+---
+
+## 📝 Tech Blog / Writing
+
+| Title | Platform | Date |
+|-------|----------|------|
+| *Building ChainShield: Privacy-Preserving Supply Chain on Midnight* | *Coming Soon* | 2026 |
+| *7 Belts to Mainnet: My Stellar Journey* | *Coming Soon* | 2026 |
+| *8-Phase Encrypted Chat: From TCP to Blockchain Integrity* | *Coming Soon* | 2026 |
+
+---
+
+## 🤝 Mentorship & Community
+
+- 🎓 **Midnight Bootcamp (SPPU)** — Collaborated with peers on ChainShield privacy-preserving supply chain
+- 🌟 **Stellar Journey to Mastery** — Active participant in Rise In Stellar program, helping newcomers
+- 🛣️ **Road to DevCon I** — Building portfolio projects for DevCon eligibility
+- 💬 **Open Source** — Documenting full blockchain learning journey publicly across 17 repositories
 
 ---
 
@@ -163,14 +194,12 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
-<details>
-<summary><b>📈 Auto-generated stats (via GitHub Action)</b></summary>
+### Auto-Generated Profile Stats (via GitHub Action)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiyamulani03&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D50FF&icon_color=FF61D2&text_color=e8e2ff&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyamulani03&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D50FF&text_color=e8e2ff" height="160" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/profile-stats.svg" height="160" alt="Profile Stats" />
+  <img src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/top-languages.svg" height="160" alt="Top Languages" />
 </p>
-<p align="center"><em>Generated daily via GitHub Actions • External services may have delays</em></p>
-</details>
+<p align="center"><em>Updated daily via GitHub Actions • Zero external dependencies • Uses GitHub GraphQL API</em></p>
 
 </div>
 
