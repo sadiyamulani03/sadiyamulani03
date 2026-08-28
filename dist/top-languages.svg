@@ -1,0 +1,53 @@
+<svg width="495" height="221" viewBox="0 0 495 221" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF61D2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9D50FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="495" height="221" fill="#0d1117" rx="8"/>
+  <rect x="10" y="10" width="475" height="201" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="247" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="bold" fill="#9D50FF" text-anchor="middle">Most Used Languages</text>
+  <line x1="20" y1="42" x2="475" y2="42" stroke="#30363d" stroke-width="1"/>
+  
+    <text x="20" y="55" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">TypeScript</text>
+    <text x="120" y="55" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">37.8%</text>
+    <rect x="130" y="39" width="300" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="39" width="300" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">HTML</text>
+    <text x="120" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">35.1%</text>
+    <rect x="130" y="61" width="278.2002809521414" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="61" width="278.2002809521414" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">JavaScript</text>
+    <text x="120" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">8.7%</text>
+    <rect x="130" y="83" width="68.72801433397701" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="83" width="68.72801433397701" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="121" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Python</text>
+    <text x="120" y="121" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">7.8%</text>
+    <rect x="130" y="105" width="61.934467719527724" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="105" width="61.934467719527724" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="143" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">CSS</text>
+    <text x="120" y="143" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">6.9%</text>
+    <rect x="130" y="127" width="54.691629870707835" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="127" width="54.691629870707835" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="165" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Rust</text>
+    <text x="120" y="165" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">2.2%</text>
+    <rect x="130" y="149" width="20" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="149" width="20" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="187" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">R</text>
+    <text x="120" y="187" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">0.7%</text>
+    <rect x="130" y="171" width="20" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="171" width="20" height="12" fill="url(#grad)" rx="3"/>
+    
+    <text x="20" y="209" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Solidity</text>
+    <text x="120" y="209" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">0.7%</text>
+    <rect x="130" y="193" width="20" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="193" width="20" height="12" fill="url(#grad)" rx="3"/>
+    
+</svg>
