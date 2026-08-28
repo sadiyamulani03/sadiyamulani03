@@ -1,0 +1,37 @@
+name: README Lint
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * 1'
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdownlint
+        run: npm install -g markdownlint-cli2@0.14.1
+
+      - name: Run markdownlint
+        run: markdownlint-cli2 README.md --config .markdownlint.jsonc
+
+      - name: Install lychee
+        run: |
+          cargo install lychee --locked 2>/dev/null || \
+          curl -sSfL https://github.com/lycheeverse/lychee/releases/latest/download/lychee-x86_64-unknown-linux-musl.tar.gz | tar xz -C /usr/local/bin
+
+      - name: Check links
+        run: lychee README.md --max-concurrency 10 --timeout 30 --exclude "localhost|raw.githubusercontent.com|github.com/sadiyamulani03" --verbose

@@ -141,8 +141,19 @@
 
 ## 🎓 Certifications
 
- **Into the Midnight Bootcamp-SPPU**
- **Road to DevCon-I** 
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| **Stellar Journey to Mastery** | Rise In & Stellar | 7 belts completed • certificate pending |
+| **Midnight Bootcamp** | SPPU | Completed • certificate received |
+| **Road to DevCon** | — | In progress |
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/api?username=sadiyamulani03&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=15" alt="Trophies" />
+</div>
 
 ---
 
@@ -190,6 +201,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/sadiyamulani03/sadiyamulani03/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
+### Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiyamulani03&theme=github-dark&hide_border=true&area=true&color=9D50FF&point=FF61D2&line=9D50FF" alt="Activity Graph" />
 
 ### Auto-Generated Profile Stats (via GitHub Action)
 <p align="center">

@@ -1,0 +1,27 @@
+name: Spellcheck
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install cspell
+        run: npm install -g cspell@8.5.0
+
+      - name: Run spellcheck
+        run: cspell README.md --config cspell.json --no-progress || true

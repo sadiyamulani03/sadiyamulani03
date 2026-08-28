@@ -1,0 +1,13 @@
+{
+  "default": true,
+  "MD013": false,
+  "MD033": false,
+  "MD041": false,
+  "MD036": false,
+  "MD026": false,
+  "MD040": false,
+  "MD025": false,
+  "MD009": { "br_spaces": 2 },
+  "MD012": { "maximum": 3 },
+  "MD046": { "style": "fenced" }
+}
