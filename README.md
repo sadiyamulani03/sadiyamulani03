@@ -167,16 +167,6 @@
 
 ---
 
-## 📝 Tech Blog / Writing
-
-| Title | Platform | Date |
-|-------|----------|------|
-| *Building ChainShield: Privacy-Preserving Supply Chain on Midnight* | *Coming Soon* | 2026 |
-| *7 Belts to Mainnet: My Stellar Journey* | *Coming Soon* | 2026 |
-| *8-Phase Encrypted Chat: From TCP to Blockchain Integrity* | *Coming Soon* | 2026 |
-
----
-
 ## 🤝 Mentorship & Community
 
 - 🎓 **Midnight Bootcamp (SPPU)** — Collaborated with peers on ChainShield privacy-preserving supply chain
