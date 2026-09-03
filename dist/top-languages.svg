@@ -46,7 +46,7 @@
     <rect x="130" y="171" width="20" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="209" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">R</text>
-    <text x="120" y="209" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">0.7%</text>
+    <text x="120" y="209" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">0.8%</text>
     <rect x="130" y="193" width="20" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
     <rect x="130" y="193" width="20" height="12" fill="url(#grad)" rx="3"/>
     
