@@ -16,29 +16,29 @@
     <rect x="130" y="39" width="300" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">HTML</text>
-    <text x="120" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">30.1%</text>
-    <rect x="130" y="61" width="218.65089021075994" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="61" width="218.65089021075994" height="12" fill="url(#grad)" rx="3"/>
+    <text x="120" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">29.9%</text>
+    <rect x="130" y="61" width="217.2083491490574" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="61" width="217.2083491490574" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">JavaScript</text>
-    <text x="120" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">10.2%</text>
-    <rect x="130" y="83" width="73.85157974664247" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="83" width="73.85157974664247" height="12" fill="url(#grad)" rx="3"/>
+    <text x="120" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">10.1%</text>
+    <rect x="130" y="83" width="73.36434671432579" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="83" width="73.36434671432579" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="121" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Python</text>
-    <text x="120" y="121" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">6.5%</text>
-    <rect x="130" y="105" width="46.91980920495222" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="105" width="46.91980920495222" height="12" fill="url(#grad)" rx="3"/>
+    <text x="120" y="121" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">6.4%</text>
+    <rect x="130" y="105" width="46.61025752043748" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="105" width="46.61025752043748" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="143" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">CSS</text>
-    <text x="120" y="143" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">5.9%</text>
-    <rect x="130" y="127" width="42.59291290798273" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="127" width="42.59291290798273" height="12" fill="url(#grad)" rx="3"/>
+    <text x="120" y="143" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">6.1%</text>
+    <rect x="130" y="127" width="44.21222161494156" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="127" width="44.21222161494156" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="165" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Solidity</text>
     <text x="120" y="165" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">3.6%</text>
-    <rect x="130" y="149" width="26.323735924174507" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="149" width="26.323735924174507" height="12" fill="url(#grad)" rx="3"/>
+    <rect x="130" y="149" width="26.150066061996345" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="149" width="26.150066061996345" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="187" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">Rust</text>
     <text x="120" y="187" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">1.8%</text>
