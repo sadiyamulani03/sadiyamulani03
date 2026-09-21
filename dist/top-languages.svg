@@ -17,8 +17,8 @@
     
     <text x="20" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">JavaScript</text>
     <text x="120" y="77" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">24.8%</text>
-    <rect x="130" y="61" width="208.78090629667577" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
-    <rect x="130" y="61" width="208.78090629667577" height="12" fill="url(#grad)" rx="3"/>
+    <rect x="130" y="61" width="209.20386473089192" height="12" fill="#9D50FF" rx="3" opacity="0.8"/>
+    <rect x="130" y="61" width="209.20386473089192" height="12" fill="url(#grad)" rx="3"/>
     
     <text x="20" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#e8e2ff">HTML</text>
     <text x="120" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#9D50FF" text-anchor="end">24.1%</text>
